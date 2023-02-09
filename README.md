@@ -1,7 +1,6 @@
 # Hi, I am Arm!tage.
 
-**beacon>** blog
-
+**beacon>** blog  
 [*] Tasked beacon to get blog address  
 [+] host called home, sent: 97 bytes  
 [+] received output:  
