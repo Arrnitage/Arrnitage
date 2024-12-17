@@ -1,5 +1,7 @@
 # Hi, I am Arm!tage.
 
+https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
+
 **beacon>** blog  
 [*] Tasked beacon to get blog address  
 [+] host called home, sent: 97 bytes  
