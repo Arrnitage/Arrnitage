@@ -1,6 +1,7 @@
 # Hi, I am Arm!tage.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 **beacon>** blog  
 [*] Tasked beacon to get blog address  
