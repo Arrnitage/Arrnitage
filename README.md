@@ -1,16 +1,19 @@
-# Hi, I am Arm!tage🏴‍☠️.
+<div>
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<h2> / About me / </h2>
+  
+- 💀 mostly working on **private repositories**
+- 📖 My blog: [Hi, I am Arm!tage](https://arrnitage.github.io/)🏴‍☠️
+- 📧 Contact me with [E-mail](mailto:an0ther1412@qq.com)
+  
+<h2> / current skills / </h2>
+  
+- <h3> languages </h3>
+  <img src = "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt = "rust" />
+  <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt = "python" />
 
-**beacon>** blog  
-[*] Tasked beacon to get blog address  
-[+] host called home, sent: 97 bytes  
-[+] received output:  
-[Hi, I am Arm!tage](https://arrnitage.github.io/)
+<h2> / Certifications / </h2>
 
-**beacon>** email  
-[*] Tasked beacon to get email address  
-[+] host called home, sent: 97 bytes  
-[+] received output:  
-[an0ther1412@qq.com](mailto:an0ther1412@qq.com)
+- **CISP**
+
+</div>
