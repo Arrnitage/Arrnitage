@@ -1,8 +1,6 @@
 # Hi, I am Arm!tage🏴‍☠️.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![My Skills](https://skillicons.dev/icons?i=c,py,rust&theme=dark)
 
 **beacon>** blog  
 [*] Tasked beacon to get blog address  
