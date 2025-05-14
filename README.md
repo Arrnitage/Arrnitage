@@ -4,8 +4,8 @@
 
 ## Contact Me
 
-- **Blog:** [Hi, I am Arm!tage](https://arrnitage.github.io/)
-- **Email:** [an0ther1412@qq.com](mailto:an0ther1412@qq.com)
+- 👀 **Blog:** [Hi, I am Arm!tage](https://arrnitage.github.io/)
+- 📧 **Email:** [an0ther1412@qq.com](mailto:an0ther1412@qq.com)
 
 ## Projects
 
