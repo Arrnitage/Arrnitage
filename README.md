@@ -11,3 +11,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnitage&repo=nacos-export)](https://github.com/Arrnitage/nacos-export)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnitage&repo=MCPMap)](https://github.com/Arrnitage/MCPMap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnitage&repo=influxdbkit)](https://github.com/Arrnitage/influxdbkit)
