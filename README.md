@@ -2,14 +2,12 @@
 
 ![My Skills](https://skillicons.dev/icons?i=c,py,rust&theme=dark)
 
-**beacon>** blog  
-[*] Tasked beacon to get blog address  
-[+] host called home, sent: 97 bytes  
-[+] received output:  
-[Hi, I am Arm!tage](https://arrnitage.github.io/)
+## Contact Me
 
-**beacon>** email  
-[*] Tasked beacon to get email address  
-[+] host called home, sent: 97 bytes  
-[+] received output:  
-[an0ther1412@qq.com](mailto:an0ther1412@qq.com)
+- **Blog:** [Hi, I am Arm!tage](https://arrnitage.github.io/)
+- **Email:** [an0ther1412@qq.com](mailto:an0ther1412@qq.com)
+
+## Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnitage&repo=nacos-export)](https://github.com/Arrnitage/nacos-export)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arrnitage&repo=MCPMap)](https://github.com/Arrnitage/MCPMap)
